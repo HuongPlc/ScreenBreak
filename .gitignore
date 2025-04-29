@@ -104,3 +104,5 @@ iOSInjectionProject/
 .DS_Store
 .xcuserstate
 xcshareddata/
+config.bat
+node_modules
